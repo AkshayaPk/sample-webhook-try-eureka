@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/eureka-1.0-SNAPSHOT.jar
+    - eureka-1.0-SNAPSHOT.jar
